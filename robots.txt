@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nikisidiman.github.io/archive-d6z9ko/sitemap.xml
